@@ -5,3 +5,8 @@
 ```
 java -jar PaymentTracker.jar
 ```
+> Ukonceni programu prikazem:
+```
+quit
+```
+> Nadefinovane *Exchange rates* jsou **HKD**, **RMB** a **CZK**
